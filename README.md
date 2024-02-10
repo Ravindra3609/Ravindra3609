@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindra3609&label=Profile%20views&color=0e75b6&style=flat" alt="ravindra3609" /> </p>
 
-- 🔭 I’m currently working on **Fullstack Notion Clone**
+- 🔭 I’m currently working on **Fullstack Full stack web development**
 
 - 🌱 I’m currently learning **MERN Stack, React Native**
-
-- 👯 I’m looking to collaborate on **Developers**
 
 - 🤝 I’m looking for help with **Fullstack development, Backend development**
 
