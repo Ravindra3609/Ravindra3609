@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Fullstack development, Backend development**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ravindra-naidu-kuriti-b7a185205/](https://www.linkedin.com/in/ravindra-naidu-kuriti-b7a185205/)
-
 - 📫 How to reach me **ravindranaidukuriti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
