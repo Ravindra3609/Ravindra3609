@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindra3609&label=Profile%20views&color=0e75b6&style=flat" alt="ravindra3609" /> </p>
 
-- 🔭 I’m currently working on **Full stack web development**
-
-- 🌱 I’m currently learning **MERN Stack, React Native**
-
-- 🤝 I’m looking for help with **Fullstack development, Backend development**
-
 - 📫 How to reach me **ravindranaidukuriti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
